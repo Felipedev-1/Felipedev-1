@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Felipedev-1
+-  Hi, I’m @Felipedev-1
 
 <!---
 Felipedev-1/Felipedev-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
